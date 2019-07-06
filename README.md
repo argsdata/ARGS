@@ -1,4 +1,4 @@
-![Group 5-5](/Users/johnnyhsieh/Downloads/Group%205-5.png)
+![image](https://github.com/argsdata/ARGS/blob/master/ARGS/ARGS_Backgound.png)
 
 # ARGS
 
